@@ -1,11 +1,14 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
-func isAnagram(s string, t string) bool {
+func isAnagram(s, t string) bool {
 	if len(s) != len(t) {
 		return false
 	}
+
 	a := make([]int, 26)
 	b := make([]int, 26)
 
