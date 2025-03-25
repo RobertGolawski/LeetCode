@@ -12,7 +12,7 @@ Below is an index of the NeetCode 150 problems, categorized as they are on the N
 ### Arrays & Hashing
 
 - [217. Contains Duplicate](./217/217.md)
-- [242. Valid Anagram]
+- [242. Valid Anagram](./242/242.md)
 - [1. Two Sum]
 - [49. Group Anagrams]
 - [347. Top K Frequent Elements]
