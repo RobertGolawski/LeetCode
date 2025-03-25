@@ -27,8 +27,12 @@ func isAnagram(s, t string) bool {
 
 func main() {
 	for i := range T.cases {
-		if T.answers[i] != isAnagram(T.cases[i][0], T.cases[i][1]) {
-			fmt.Printf("Incorrect answer in test case %d", i)
+		ans := isAnagram(T.cases[i][0], T.cases[i][1])
+		if T.answers[i] != ans {
+			fmt.Printf("Test Case %d Failed:\n", i)
+			fmt.Printf("  Input: s=%v, t=%v\n", T.cases[i][0], T.cases[i][1])
+			fmt.Printf("  Expected: %v\n", T.answers[i])
+			fmt.Printf("  Got: %v\n", ans)
 			return
 		}
 	}
