@@ -1,5 +1,14 @@
 # LeetCode
 
+This repo will contain my solutions to LeetCode questions.
+
+Each problem has its own directory (named after the LeetCode problem number) containing:
+
+- A `.md` file (`[ProblemNumber].md`) with the problem statement, intuition, approach, and discussion.
+- Language-specific directories (e.g., `go`, `python`, `java`) containing the code solutions and test cases.
+
+Below is an index of the NeetCode 150 problems, categorized as they are on the NeetCode website. Solved problems are hyperlinked to their respective problem description (`.md`) file. The index will be expanded with additional problems as I do them.
+
 ### Arrays & Hashing
 
 - [217. Contains Duplicate](./217/217.md)
