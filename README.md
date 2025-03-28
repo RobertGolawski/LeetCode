@@ -14,7 +14,7 @@ Below is an index of the NeetCode 150 problems, categorized as they are on the N
 - [217. Contains Duplicate](./217.%20Contains%20Duplicate/217.md)
 - [242. Valid Anagram](./242.%20Valid%20Anagram/242.md)
 - [1. Two Sum](./1.%20Two%20Sum/1.md)
-- [49. Group Anagrams]
+- [49. Group Anagrams](49.%20Group%20Anagrams/49.md)
 - [347. Top K Frequent Elements]
 - [271. Encode and Decode Strings]
 - [238. Product of Array Except Self]
