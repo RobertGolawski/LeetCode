@@ -37,7 +37,7 @@ func compare(expected map[string]bool, actual [][]string) bool {
 		key := strings.Join(group, ",")
 		actualMap[key] = true
 	}
-	
+
 	for key := range expected {
 		if _, ok := actualMap[key]; !ok {
 			return false
