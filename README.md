@@ -23,7 +23,7 @@ Below is an index of the NeetCode 150 problems (premium questions are skipped), 
 ### Two Pointers
 
 - [125. Valid Palindrome](./125.%20Valid%20Palindrome/125.md)
-- [167. Two Sum II - Input Array Is Sorted]
+- [167. Two Sum II - Input Array Is Sorted](./167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/167.md)
 - [15. 3Sum]
 - [11. Container With Most Water]
 - [42. Trapping Rain Water]
