@@ -39,7 +39,7 @@ Below is an index of the NeetCode 150 problems (premium questions are skipped), 
 
 ### Stack
 
-- [20. Valid Parentheses](./20.%Valid%Parentheses/20.md)
+- [20. Valid Parentheses](./20. Valid Parentheses/20.md)
 - [155. Min Stack]
 - [150. Evaluate Reverse Polish Notation]
 - [22. Generate Parentheses]
