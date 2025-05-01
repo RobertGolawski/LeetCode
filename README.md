@@ -40,7 +40,7 @@ Below is an index of the NeetCode 150 problems (premium questions are skipped), 
 ### Stack
 
 - [20. Valid Parentheses](20.%20Valid%20Parentheses/20.md)
-- [155. Min Stack]
+- [155. Min Stack](./155.%20Min%20Stack/155.md)
 - [150. Evaluate Reverse Polish Notation]
 - [22. Generate Parentheses]
 - [739. Daily Temperatures]
@@ -49,7 +49,7 @@ Below is an index of the NeetCode 150 problems (premium questions are skipped), 
 
 ### Binary Search
 
-- [704. Binary Search]
+- [704. Binary Search](./704.%20Binary%20Search/704.md)
 - [74. Search a 2D Matrix]
 - [875. Koko Eating Bananas]
 - [153. Find Minimum in Rotated Sorted Array]
