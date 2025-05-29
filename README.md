@@ -30,7 +30,7 @@ Below is an index of the NeetCode 150 problems (premium questions are skipped), 
 
 ### Sliding Window
 
-- [121. Best Time to Buy and Sell Stock]
+- [121. Best Time to Buy and Sell Stock](./121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/121.md)
 - [3. Longest Substring Without Repeating Characters]
 - [424. Longest Repeating Character Replacement]
 - [567. Permutation in String]
