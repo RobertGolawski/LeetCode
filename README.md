@@ -59,7 +59,7 @@ Below is an index of the NeetCode 150 problems (premium questions are skipped), 
 
 ### Linked List
 
-- [206. Reverse Linked List]
+- [206. Reverse Linked List](./206.%20Reverse%20Linked%20List/template.md)
 - [21. Merge Two Sorted Lists]
 - [141. Linked List Cycle]
 - [143. Reorder List]
